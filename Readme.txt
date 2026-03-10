@@ -1,7 +1,7 @@
 Thanks for downloading this template!
 
-Template Name: sandy
-Template URL: https://bootstrapmade.com/style-bootstrap-portfolio-template/
+Template Name: sandy portfolio
 Author: sandy
 License: https://bootstrapmade.com/license/
+
 
